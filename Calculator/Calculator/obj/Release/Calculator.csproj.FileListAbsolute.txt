@@ -1,0 +1,17 @@
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\bin\Release\UserData.dll
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\bin\Release\Utilities.dll
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\bin\Release\UserData.pdb
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\bin\Release\Utilities.pdb
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\obj\Release\MainWindow.baml
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\obj\Release\MainWindow.g.cs
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\obj\Release\App.g.cs
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\obj\Release\Calculator_MarkupCompile.cache
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\obj\Release\Calculator.g.resources
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Calculator\obj\Release\Calculator.pdb

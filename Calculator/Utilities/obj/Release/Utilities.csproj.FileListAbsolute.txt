@@ -1,0 +1,4 @@
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Utilities\bin\Release\Utilities.dll
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Utilities\bin\Release\Utilities.pdb
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Utilities\obj\Release\Utilities.dll
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\Utilities\obj\Release\Utilities.pdb

@@ -1,0 +1,7 @@
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\UserData\bin\Release\UserData.dll
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\UserData\bin\Release\UserData.pdb
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\UserData\bin\Release\Utilities.dll
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\UserData\bin\Release\Utilities.pdb
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\UserData\obj\Release\UserData.csprojResolveAssemblyReference.cache
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\UserData\obj\Release\UserData.dll
+C:\Users\fsola\Documents\C#\WPFApplications\Calculator\UserData\obj\Release\UserData.pdb
